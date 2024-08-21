@@ -34,8 +34,7 @@ python main.py --mode=0 --nEpochs=[your model's epoch] --save_folder=[your model
 
 ## Result
 <center>
-    <img style="width: 缩放比例; border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    <img style="width: 90%; " 
     src="./img/res.png">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
